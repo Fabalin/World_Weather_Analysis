@@ -6,7 +6,7 @@
 - Jupyter Notebook - 6.4.8
 - Python - 3.7.11
 - OpenWeatherMap - [Current Weather Data](https://openweathermap.org/current)
--  
+- [Google Maps Platform](https://console.cloud.google.com/google/maps-apis/overview?project=second-casing-345123)  
 
 ### Highlight of Key Dependencies in Python
 - Pandas - 1.4.1
